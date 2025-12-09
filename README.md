@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:2d333b&height=280&section=header&text=Alireza%20Zarebidoki&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Programmer%20%7C%20Computer%20Science%20Expert&descSize=22&descAlignY=60" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:2d333b&height=280&section=header&text=Alireza%20Zarebidoki&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Programmer%20%7C%20CS%20Undergraduate%20%40%20FUM&descSize=22&descAlignY=60" width="100%" alt="Header" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3500&pause=1000&color=45C924&center=true&vCenter=true&width=600&lines=Core+Competency:+C%2F%C2%B7%C2%B7+%26+Java+Ecosystems;Passionate+about+Low-Level+Optimization;Exploring+Web+%26+Scripting+Languages;Turning+Coffee+into+Reliable+Code" alt="Typing SVG" />
@@ -17,7 +17,7 @@
   </p>
   
   <p>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">
+    <a href="https://www.linkedin.com/in/alireza-zarebidoki/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect_with_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://github.com/alireza-zarebidoki">
@@ -33,7 +33,7 @@
 
 > *"Programming is not just about writing code; it's about solving problems efficiently and scalably."*
 
-I am **Alireza**, a **Programmer** and **Computer Science Expert** studying at **Ferdowsi University of Mashhad (FUM)**. My journey began with a curiosity about how hardware executes software, which led me to specialize in **Systems Programming**.
+I am **Alireza**, a **Programmer** and **Computer Science Undergraduate Student** at **Ferdowsi University of Mashhad (FUM)**. My journey began with a curiosity about how hardware executes software, which led me to specialize in **Systems Programming**.
 
 While my core focus is on **Foundational CS** (C/C++, Java), I am a polyglot programmer who enjoys exploring **Web Technologies** and **Scripting** to broaden my perspective.
 
