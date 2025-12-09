@@ -1,22 +1,26 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30,30,30&height=250&section=header&text=Alireza%20Zarebidoki&fontSize=60&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Computer%20Science%20Student%20@%20FUM&descSize=20&descAlignY=55" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24292e,100:2b3137&height=250&section=header&text=Alireza%20Zarebidoki&fontSize=60&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineer%20%7C%20C%2F%C2%B7%C2%B7%20%26%20Java%20Expert&descSize=20&descAlignY=55" alt="Header" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3382F7&center=true&vCenter=true&width=435&lines=Freshman+CS+Student+%40+FUM;C%2B%2B+%26+Java+Enthusiast;Problem+Solver+%26+Algorithm+Learner;Building+the+Future+Line+by+Line" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=System-Level+Programming;High-Performance+Computing;Object-Oriented+Architecture;Algorithm+Optimization+%26+Data+Structures" alt="Typing SVG" />
   </a>
 
   <br/>
 
   <p>
-    <a href="https://github.com/alireza-zarebidoki">
-      <img src="https://img.shields.io/badge/Focus-Low--Level%20Programming-blueviolet?style=for-the-badge&logo=cplusplus" alt="Focus">
+    <a href="mailto:alireza@zarebidoki.com">
+      <img src="https://img.shields.io/badge/Email-alireza@zarebidoki.com-222222?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Professional Email">
     </a>
+    <br/>
+    <a href="mailto:alireza.zarebidoki@mail.um.ac.ir">
+      <img src="https://img.shields.io/badge/Academic-alireza.zarebidoki@mail.um.ac.ir-005b96?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Academic Email">
+    </a>
+  </p>
+  
+  <p>
     <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-    </a>
-    <a href="mailto:YOUR_EMAIL@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
   </p>
 
@@ -24,54 +28,59 @@
 
 ---
 
-### 👨‍💻 About Me
+### 🚀 Professional Summary
 
-Hello world! I am **Alireza**, a passionate Computer Science student at **Ferdowsi University of Mashhad (FUM)**, class of 1404 (2025).
+I am a **Software Engineer** with deep expertise in **Systems Programming (C/C++)** and **Enterprise Application Development (Java)**. 
 
-My primary interest lies in the intersection of **mathematics and software engineering**. Unlike many who jump straight into frameworks, I am dedicating my early years to mastering the **fundamentals**: how memory works, how compilers think, and how to write code that is not just functional, but optimal.
+My engineering philosophy centers on writing code that is safe, fast, and maintainable. I move beyond syntax to understand the underlying mechanics of the machine—from manual memory management and pointer arithmetic in C++ to the intricacies of Garbage Collection and Concurrency in Java.
 
-* 🔭 **I’m currently working on:** Mastering Data Structures & basic Algorithms in C++.
-* 🌱 **I’m currently learning:** Object-Oriented Programming (Java) and Advanced Pointers.
-* 🤔 **I’m looking for help with:** Best practices in Clean Architecture for C projects.
-* ⚡ **Fun fact:** I believe understanding pointers in C is a superpower!
+* 🛠 **Core Competency:** Building low-latency systems and scalable backend architectures.
+* 🧠 **Focus:** Algorithms, Design Patterns (SOLID), and Clean Code.
+* 🤝 **Collaboration:** Experienced with Git flow and agile development.
 
 ---
 
-### 🛠️ Technical Arsenal
+### 💻 Tech Stack & Proficiency
 
 <div align="center">
 
-| **Languages** | **Tools & Environments** | **Core Concepts** |
+| **Core Languages** | **Advanced Concepts** | **Dev Ops & Tools** |
 | :---: | :---: | :---: |
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,java,python" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vim" /></a> | <img src="https://img.shields.io/badge/Data%20Structures-333333?style=flat-square"> <br> <img src="https://img.shields.io/badge/Algorithms-333333?style=flat-square"> <br> <img src="https://img.shields.io/badge/OOP-333333?style=flat-square"> |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,java" /></a> | <img src="https://img.shields.io/badge/STL%20%26%20Boost-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"> <br> <img src="https://img.shields.io/badge/Multithreading-A93226?style=flat-square"> <br> <img src="https://img.shields.io/badge/JVM%20Internals-ED8B00?style=flat-square"> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,linux,docker,cmake,bash" /></a> |
 
 </div>
 
 <br/>
 
-### 📈 GitHub Stats & Trophies
+### 🔬 Technical Expertise
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alireza-zarebidoki&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-  <br/><br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=alireza-zarebidoki&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-zarebidoki&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" height="180" alt="languages graph" />
-</div>
+Here is a breakdown of what I bring to the table:
 
-<br/>
+* **C & C++ Ecosystem:**
+    * Full mastery of **Pointers** & **Memory Management** (Stack vs Heap).
+    * Modern C++ (C++11/14/17/20) features: Smart Pointers, Lambdas, Move Semantics.
+    * Proficient with CMake and Makefiles for build automation.
 
-### 🏫 Academic Timeline (Current Focus)
+* **Java Ecosystem:**
+    * Strong grasp of **OOP Principles** (Encapsulation, Polymorphism, Inheritance).
+    * Experience with **Java Collections Framework** and Stream API.
+    * Understanding of JVM Architecture, Class Loading, and Garbage Collection tuning.
 
-| Course | Status | Key Takeaways |
-| :--- | :---: | :--- |
-| **Fundamentals of Programming (CS101)** | ✅ Completed | Conditionals, Loops, Arrays, Bitwise Ops |
-| **Advanced Programming** | 🔄 In Progress | Memory Management, OOP, Recursion |
-| **Discrete Mathematics** | 🔄 In Progress | Logic, Set Theory, Graph Theory |
+* **Computer Science Foundations:**
+    * Advanced Data Structures (Trees, Graphs, Hash Maps).
+    * Algorithm Analysis (Big O Notation).
 
 ---
 
+### 📊 Coding Activity
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30,30,30&height=100&section=footer&animation=fadeIn" width="100%"/>
-  <p><i>"Talk is cheap. Show me the code." — Linus Torvalds</i></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=alireza-zarebidoki&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-zarebidoki&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=6" height="180" alt="languages graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24292e,100:2b3137&height=100&section=footer&animation=fadeIn" width="100%"/>
 </div>
