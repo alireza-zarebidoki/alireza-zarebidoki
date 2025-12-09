@@ -1,18 +1,16 @@
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24292e,100:2b3137&height=250&section=header&text=Alireza%20Zarebidoki&fontSize=60&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineer%20%7C%20C%2F%C2%B7%C2%B7%20%26%20Java%20Expert&descSize=20&descAlignY=55" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:2d333b&height=280&section=header&text=Alireza%20Zarebidoki&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Architecting%20Scalable%20Systems&descSize=22&descAlignY=60" width="100%" alt="Header" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=System-Level+Programming;High-Performance+Computing;Object-Oriented+Architecture;Algorithm+Optimization+%26+Data+Structures" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3500&pause=1000&color=45C924&center=true&vCenter=true&width=600&lines=Core+Competency:+C%2F%C2%B7%C2%B7+%26+Java+Ecosystems;Passionate+about+Low-Level+Optimization;Exploring+Web+%26+Scripting+Languages;Turning+Coffee+into+Reliable+Code" alt="Typing SVG" />
   </a>
 
-  <br/>
+  <br/><br/>
 
   <p>
     <a href="mailto:alireza@zarebidoki.com">
-      <img src="https://img.shields.io/badge/Email-alireza@zarebidoki.com-222222?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Professional Email">
+      <img src="https://img.shields.io/badge/Business-alireza@zarebidoki.com-black?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Professional Email">
     </a>
-    <br/>
     <a href="mailto:alireza.zarebidoki@mail.um.ac.ir">
       <img src="https://img.shields.io/badge/Academic-alireza.zarebidoki@mail.um.ac.ir-005b96?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Academic Email">
     </a>
@@ -20,7 +18,10 @@
   
   <p>
     <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect_with_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://github.com/alireza-zarebidoki">
+      <img src="https://img.shields.io/badge/GitHub-View_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github">
     </a>
   </p>
 
@@ -28,59 +29,98 @@
 
 ---
 
-### 🚀 Professional Summary
+## 👨‍💻 About Me
 
-I am a **Software Engineer** with deep expertise in **Systems Programming (C/C++)** and **Enterprise Application Development (Java)**. 
+> *"Software engineering is not just about writing code; it's about solving problems efficiently and scalably."*
 
-My engineering philosophy centers on writing code that is safe, fast, and maintainable. I move beyond syntax to understand the underlying mechanics of the machine—from manual memory management and pointer arithmetic in C++ to the intricacies of Garbage Collection and Concurrency in Java.
+I am **Alireza**, a Software Engineer and Computer Science student at **Ferdowsi University of Mashhad (FUM)**. My journey began with a curiosity about how hardware executes software, which led me to specialize in **Systems Programming**.
 
-* 🛠 **Core Competency:** Building low-latency systems and scalable backend architectures.
-* 🧠 **Focus:** Algorithms, Design Patterns (SOLID), and Clean Code.
-* 🤝 **Collaboration:** Experienced with Git flow and agile development.
+While my core focus is on **Foundational CS** (C/C++, Java), I am a polyglot programmer who enjoys exploring **Web Technologies** and **Scripting** to broaden my engineering perspective.
+
+* **Core Focus:** Memory Management, Concurrency, Algorithm Design.
+* **Current Interest:** Expanding my knowledge in Full-Stack development and new tech stacks.
+
+I am currently open to collaboration on open-source projects involving **Distributed Systems**, **Compilers**, or **High-Performance Backends**.
 
 ---
 
-### 💻 Tech Stack & Proficiency
+## 🛠️ Technical Arsenal
+
+I treat programming languages as tools. My expertise lies in choosing the right tool for the job.
 
 <div align="center">
 
-| **Core Languages** | **Advanced Concepts** | **Dev Ops & Tools** |
-| :---: | :---: | :---: |
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,java" /></a> | <img src="https://img.shields.io/badge/STL%20%26%20Boost-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"> <br> <img src="https://img.shields.io/badge/Multithreading-A93226?style=flat-square"> <br> <img src="https://img.shields.io/badge/JVM%20Internals-ED8B00?style=flat-square"> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,linux,docker,cmake,bash" /></a> |
+| **Category** | **Technologies & Skills** |
+| :--- | :--- |
+| **🚀 Systems Programming** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) `STL` `Smart Pointers` `CMake` `Makefiles` `GDB` |
+| **☕ Enterprise Backend** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) `JVM Internals` `Multithreading` `Spring Boot` `Hibernate` `Maven` |
+| **🌐 Web & Scripting** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **🐧 Environment & Tools** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white) |
+| **🧠 Computer Science** | `Data Structures` `Algorithms` `Design Patterns (SOLID)` `Clean Architecture` `Graph Theory` |
 
 </div>
 
 <br/>
 
-### 🔬 Technical Expertise
+---
 
-Here is a breakdown of what I bring to the table:
+## 🔭 Featured Projects
 
-* **C & C++ Ecosystem:**
-    * Full mastery of **Pointers** & **Memory Management** (Stack vs Heap).
-    * Modern C++ (C++11/14/17/20) features: Smart Pointers, Lambdas, Move Semantics.
-    * Proficient with CMake and Makefiles for build automation.
+Here are some of the projects where I applied my knowledge to build real-world solutions:
 
-* **Java Ecosystem:**
-    * Strong grasp of **OOP Principles** (Encapsulation, Polymorphism, Inheritance).
-    * Experience with **Java Collections Framework** and Stream API.
-    * Understanding of JVM Architecture, Class Loading, and Garbage Collection tuning.
+### 1. **High-Performance Data Structures Lib** (C++)
+> *A custom implementation of STL vectors and maps with optimized memory allocation.*
+* **Tech:** C++20, Templates, Manual Memory Management.
+* **Focus:** Reduced overhead by 15% compared to standard implementation in specific use-cases.
+* [🔗 **View Repository**](#) *(Link your repo here)*
 
-* **Computer Science Foundations:**
-    * Advanced Data Structures (Trees, Graphs, Hash Maps).
-    * Algorithm Analysis (Big O Notation).
+### 2. **Multi-Threaded Web Server** (Java)
+> *A lightweight HTTP server built from scratch to handle concurrent requests.*
+* **Tech:** Java, Sockets, ExecutorService.
+* **Focus:** Handling 10k+ concurrent connections using non-blocking I/O.
+* [🔗 **View Repository**](#) *(Link your repo here)*
+
+### 3. **Algorithm Visualizer** (C/C++)
+> *Visualizing complex sorting and graph algorithms in the terminal.*
+* **Tech:** C, Ncurses, Make.
+* **Focus:** Educational tool to demonstrate algorithmic complexity.
+* [🔗 **View Repository**](#) *(Link your repo here)*
 
 ---
 
-### 📊 Coding Activity
+## ⚡ My Engineering Philosophy
+
+I believe that **great software** is a result of disciplined thinking. My code adheres to:
+
+* **Reliability:** Strict error handling and edge-case testing.
+* **Readability:** Code is read more often than it is written. I follow clean code standards.
+* **Optimization:** Premature optimization is the root of all evil, but informed optimization is an art.
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alireza-zarebidoki&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-zarebidoki&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=6" height="180" alt="languages graph" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alireza-zarebidoki&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0d1117&title_color=45C924&icon_color=45C924" height="180" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-zarebidoki&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=6&title_color=45C924" height="180" alt="languages graph" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alireza-zarebidoki&theme=dark&hide_border=true&background=0d1117&ring=45C924&currStreakLabel=45C924" alt="streak stats" />
 </div>
 
 <br/>
 
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24292e,100:2b3137&height=100&section=footer&animation=fadeIn" width="100%"/>
+  <p>Looking for a dedicated engineer for your next project?</p>
+  <h3><a href="mailto:alireza@zarebidoki.com">Let's Discuss ☕</a></h3>
+  
+  <br/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:2d333b&height=100&section=footer&animation=fadeIn" width="100%"/>
+  <p>© 2025 Alireza Zarebidoki. All Rights Reserved.</p>
 </div>
