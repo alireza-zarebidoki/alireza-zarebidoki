@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:2d333b&height=280&section=header&text=Alireza%20Zarebidoki&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Architecting%20Scalable%20Systems&descSize=22&descAlignY=60" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:2d333b&height=280&section=header&text=Alireza%20Zarebidoki&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Programmer%20%7C%20Computer%20Science%20Expert&descSize=22&descAlignY=60" width="100%" alt="Header" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3500&pause=1000&color=45C924&center=true&vCenter=true&width=600&lines=Core+Competency:+C%2F%C2%B7%C2%B7+%26+Java+Ecosystems;Passionate+about+Low-Level+Optimization;Exploring+Web+%26+Scripting+Languages;Turning+Coffee+into+Reliable+Code" alt="Typing SVG" />
@@ -31,11 +31,11 @@
 
 ## 👨‍💻 About Me
 
-> *"Software engineering is not just about writing code; it's about solving problems efficiently and scalably."*
+> *"Programming is not just about writing code; it's about solving problems efficiently and scalably."*
 
-I am **Alireza**, a Software Engineer and Computer Science student at **Ferdowsi University of Mashhad (FUM)**. My journey began with a curiosity about how hardware executes software, which led me to specialize in **Systems Programming**.
+I am **Alireza**, a **Programmer** and **Computer Science Expert** studying at **Ferdowsi University of Mashhad (FUM)**. My journey began with a curiosity about how hardware executes software, which led me to specialize in **Systems Programming**.
 
-While my core focus is on **Foundational CS** (C/C++, Java), I am a polyglot programmer who enjoys exploring **Web Technologies** and **Scripting** to broaden my engineering perspective.
+While my core focus is on **Foundational CS** (C/C++, Java), I am a polyglot programmer who enjoys exploring **Web Technologies** and **Scripting** to broaden my perspective.
 
 * **Core Focus:** Memory Management, Concurrency, Algorithm Design.
 * **Current Interest:** Expanding my knowledge in Full-Stack development and new tech stacks.
@@ -88,7 +88,7 @@ Here are some of the projects where I applied my knowledge to build real-world s
 
 ---
 
-## ⚡ My Engineering Philosophy
+## ⚡ My Philosophy
 
 I believe that **great software** is a result of disciplined thinking. My code adheres to:
 
@@ -116,7 +116,7 @@ I believe that **great software** is a result of disciplined thinking. My code a
 ---
 
 <div align="center">
-  <p>Looking for a dedicated engineer for your next project?</p>
+  <p>Looking for a dedicated programmer for your next project?</p>
   <h3><a href="mailto:alireza@zarebidoki.com">Let's Discuss ☕</a></h3>
   
   <br/>
